@@ -1,2 +1,8 @@
 # medical_data_schema.sql
-SQL project featuring healthcare data, including database creation, schema design, constraints, and sample clinical records.
+In this project, I focused on:
+
+- Database creation
+- Table schema design for hospitals, patients, physicians, operations, and medical plans
+- Defining primary and foreign key constraints
+- Inserting sample clinical data
+- Modeling relationships that reflect healthcare workflows (patients, physicians, procedures, and hospitals)
