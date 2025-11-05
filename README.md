@@ -1,5 +1,5 @@
-# medical_data_schema.sql
-In this project, I focused on:
+# medical_data_schema_1.sql
+This is a two section project, and here is the first section where I have focused on:
 
 - Database creation
 - Table schema design for hospitals, patients, physicians, operations, and medical plans
